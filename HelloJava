@@ -1,0 +1,9 @@
+public class HelloWorld {
+    public static void main(String[] args){
+    System.out.println("Wassup My Dude"); // println with an L creates another line below.. using print will keep everything on same line. println has to be used first
+
+
+}
+
+
+}
